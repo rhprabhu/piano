@@ -61,7 +61,7 @@ function playSnd(key) {
 			snd.play();
 			break;
 		case 'k':
-			var snd = new Audio('oh.mp3');
+			var snd = new Audio('doh.mp3');
 			snd.play();
 			break;
 		default:
